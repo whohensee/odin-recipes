@@ -3,6 +3,7 @@ body {
     text-align: center;
     font-size: 30px;
     line-height: 1.5;
+    font-family: Arial, sans-serif;
 }
 
 li {
@@ -11,6 +12,10 @@ li {
 
 .left {
     text-align: left;
+}
+
+ul {
+    list-style: none;
 }
 
 img {
