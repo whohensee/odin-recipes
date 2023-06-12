@@ -1,3 +1,19 @@
 body {
     background-color: #898952;
+    text-align: center;
+    font-size: 30px;
+    line-height: 1.5;
+}
+
+li {
+    font-style: italic;
+}
+
+.left {
+    text-align: left;
+}
+
+img {
+    height: 400px;
+    width: auto;
 }
